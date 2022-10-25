@@ -48,6 +48,8 @@ Temperature lows and highs could correlate with more accidents. Above a certain 
 
 Accidents counted by state. I had failed pivoting columns in a dataframe without column names into one that could be merged on state name abbreviation to get percent of accidents to number of people living in each state. That number for each state would still require disclaimer on number of drivers in each state out of the population. As it is, location wraps up a summary of this dataset's accidents of the United States contiguous in recent years.
 
+![image](https://user-images.githubusercontent.com/66132013/197664165-4df62b7a-7b2e-4c1d-89f2-1c4082f4d030.png)
+
 ![image](https://user-images.githubusercontent.com/66132013/197663261-99eff495-6871-4cf5-b492-fa0dd0369127.png)
 
 
