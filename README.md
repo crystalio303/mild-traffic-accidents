@@ -13,7 +13,7 @@ The number and percent of accidents that happen at night versus by day
 
 ![image](https://user-images.githubusercontent.com/66132013/197661372-3782fab9-35a9-475f-a520-d264e67c6b2f.png)
 
-I heard that driving at night is more dangerous, so I wanted to know if there were more Severity 4 cases. The percentages of each level for day were nearly the same as for night.
+I heard that driving at night is more dangerous, so I wanted to know if there were more Severity 2 cases. The percentages of each level for day were nearly the same as for night.
 
 
 
